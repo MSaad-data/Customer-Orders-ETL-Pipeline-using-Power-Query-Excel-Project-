@@ -49,11 +49,15 @@ Aggregated total revenue and number of orders per customer to analyze customer-l
 
 
 Created a Shipping Status summary to understand revenue and order distribution by delivery status
-5 image
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ffdca417-c10d-499c-9839-064af7a7cc73" />
+
 
 
 Applied multi-level grouping by Region and Category to prepare for pivot analysis
-6 image
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c86a21be-f902-45c2-8273-5003807517a5" />
+
 
 
 
