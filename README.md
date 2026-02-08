@@ -28,11 +28,16 @@ Compared the original Total Price with the calculated values and identified inco
 Added a Price Validation column to flag mismatched records instead of deleting them
 
 Derived Order Year and Order Month from Order Date for time-based analysis
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a9389af9-1055-4652-be97-d3b588e1ce71" />
 
 
 Created a reference query to preserve raw transformed data and applied Group By to aggregate total revenue by Region using calculated values. Handled missing dimension values by standardizing null Regions as Not Specified to preserve revenue integrity during aggregation. 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2bfdad2e-232a-40a6-beb9-daac565f39b2" />
+
 
 Aggregated total revenue, total quantity, and average unit price by Product Category for business-ready summaries
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a44b9d40-1b10-489c-a386-477c8f125fbf" />
+
 
 
 
