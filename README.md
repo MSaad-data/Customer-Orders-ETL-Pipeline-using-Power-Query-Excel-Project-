@@ -42,7 +42,10 @@ Aggregated total revenue, total quantity, and average unit price by Product Cate
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a44b9d40-1b10-489c-a386-477c8f125fbf" />
 
 
+
 Aggregated total revenue and number of orders per customer to analyze customer-level performance
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e2f9d318-826e-4c56-8b55-f3639fe6801d" />
 
 
 
