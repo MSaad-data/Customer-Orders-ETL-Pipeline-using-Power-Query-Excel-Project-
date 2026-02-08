@@ -59,7 +59,7 @@ Applied multi-level grouping by Region and Category to prepare for pivot analysi
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c86a21be-f902-45c2-8273-5003807517a5" />
 
 
-
+Prepared a reference query for pivot/unpivot readiness by separating dimension and fact columns, and unpivoted numeric measures (Unit Price, Quantity, Calculated Total Price, Shipping Fee) into long format (Attribute + Value) for flexible analysis
 
 
 
