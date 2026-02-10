@@ -61,6 +61,19 @@ Applied multi-level grouping by Region and Category to prepare for pivot analysi
 
 Prepared a reference query for pivot/unpivot readiness by separating dimension and fact columns, and unpivoted numeric measures (Unit Price, Quantity, Calculated Total Price, Shipping Fee) into long format (Attribute + Value) for flexible analysis
 
+## Data Load
+
+After completing all transformation steps in Power Query, the cleaned and validated queries were loaded into Excel worksheets.
+These loaded tables serve as the final, analysis-ready datasets and are used for pivot tables, charts, and further visualization.
+
+## Data Analysis (Excel)
+
+1. Created a Pivot Table to analyze total revenue by Region using ETL-validated data, along with a Pivot Chart to visually compare how much revenue each region generates.
+[graph: Which Region Generates the Highest Revenue]
+
+
+2. Analyzed total revenue contribution by product category using Pivot Tables and visualized results with a Pivot Chart. Also, evaluated sales volume by category by aggregating total quantities sold. Compared revenue and sales volume across categories to identify premium vs high-volume product segments.
+[graph: from catagory_summary 3 grapgs]
 
 
 
