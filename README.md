@@ -90,3 +90,6 @@ These loaded tables serve as the final, analysis-ready datasets and are used for
 
 4. Identified Top 10 customers based on total revenue and total quantity purchased using Pivot Table ranking to highlight high-value and high-volume customers.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/da351bff-92f2-46e4-b272-2b3256df0667" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/956fd64d-ed1f-48eb-925b-b8b0b032323f" />
