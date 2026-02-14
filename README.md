@@ -81,6 +81,10 @@ These loaded tables serve as the final, analysis-ready datasets and are used for
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e620ad9-917e-4e84-8bd7-c298ea674ecd" />
 
 
+
 3. Performed cross-dimensional performance analysis (Region × Category) by aggregating revenue, sales volume, and percentage revenue share per region through structured Pivot Tables, complemented by four Pivot Charts for comparative and distribution-based insights.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fad8eaa2-9edf-42cc-a58d-b817470e2907" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/07b9e086-b4db-4bed-bc9c-d703a5354104" />
 
