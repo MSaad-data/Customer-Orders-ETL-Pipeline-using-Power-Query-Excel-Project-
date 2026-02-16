@@ -1,6 +1,9 @@
 # Customer-Orders-ETL-Pipeline-using-Power-Query-Excel-Project-
 This project focuses on building an end-to-end ETL pipeline using Excel Power Query Editor. The dataset contains customer order transactions, including products, pricing, shipping, regions, and dates. The goal is to extract raw data, apply structured transformations, and load clean, analysis-ready data.
 
+## **Dashboard**
+<img width="2812" height="1326" alt="Dashboard 1" src="https://github.com/user-attachments/assets/10093599-528e-4b9c-b344-ab61bfc60d4e" />
+
 
 ## **Data Extraction**
 
